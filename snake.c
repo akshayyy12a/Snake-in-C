@@ -43,7 +43,7 @@ void draw_snake()
 {
     for(int i = 0; i < snake_len; i++) 
     {
-        mvprintw(snake[i].y, snake[i].x, "o"); 
+        mvprintw(snake[i].y, snake[i].x, "#"); 
     }
 }
 
@@ -68,7 +68,7 @@ void new_food()
 
 void draw_food() 
 {
-    mvprintw(food.y, food.x, "+"); 
+    mvprintw(food.y, food.x, "@"); 
 }
 
 // returns true if snake hits wall or self
