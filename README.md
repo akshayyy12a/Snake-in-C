@@ -29,7 +29,7 @@ INSTRUCTIONS:
 
 2. In your terminal "cd" inside the project Folder
 
-3. Compile the code using gcc (like this: "gcc -o snake snake.c").
+3. Compile the code using gcc (like this: "gcc -o snake snake.c -lncurses").
 
 4. Execute the game in your terminal (like this: ./snake).
 
