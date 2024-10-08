@@ -1,4 +1,5 @@
 Snake In C !
+Video: https://youtu.be/mgCKpz2uQ6g.
 Welcome to my Final Project for CS50.
 
 For this Final Project, i made a Snake Game in C, playable in the terminal.
